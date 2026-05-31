@@ -1,2 +1,2 @@
-Hi, this is just a Unity Game I made a long time ago.
+Hi, this is just source code for a Unity Game I made a long time ago.
 Bye!
